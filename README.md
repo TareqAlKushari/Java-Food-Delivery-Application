@@ -1,70 +1,59 @@
 # Java Food Delivery Application
 
-This repository contains a **Food Delivery Application** built with Java and XML. The project provides a foundational structure for an online food ordering and delivery system, suitable for learning, demonstration, and further development.
-
-## Overview
-
-The application enables users to browse restaurant menus, place orders, and manage deliveries through a Java-based interface. It is designed to illustrate the core concepts of building a food delivery system, including order management, user interaction, and (optionally) backend logic.
+This repository contains a **Food Delivery Application** built with Java and XML using Android Studio. The project is designed to showcase the core features of a modern mobile food delivery platform, providing a seamless user experience for browsing menus, placing orders, and tracking deliveries.
 
 ## Features
 
-- Browse restaurants and menus
-- Add items to cart and place orders
-- Track order status
-- Basic user registration and login
-- Modular and extensible codebase
+- **User Authentication:** Sign up and log in using email and password.
+- **Browse Restaurants & Menus:** View a list of available restaurants and browse their menus.
+- **Add to Cart & Place Orders:** Add food items to a cart and place orders directly from the app.
+- **Order Tracking:** Track the status of your active orders in real time.
+- **Order History:** View previous orders and reorder with a single click.
+- **Responsive UI:** Clean and user-friendly interface, optimized for mobile devices.
+- **Built with Java & XML:** Standard Android development stack for easy customization and extension.
 
-## Technologies Used
+## Screenshots
 
-- **Java:** Main application logic and user interface
-- **XML:** UI layout and configuration (if using JavaFX or Android)
-- (Add more details here if other frameworks/libraries are used, e.g., JavaFX, Swing, SQLite, etc.)
+*(Add screenshots of your app UI here to showcase key features!)*
 
 ## Getting Started
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher
-- (If applicable) JavaFX or Android Studio for UI
-- (Optional) Build tool such as Maven or Gradle
+- **Android Studio** (latest version recommended)
+- **Java JDK** 8 or above
+- An Android device or emulator for testing
 
-### Installation & Running
+### Installation
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/TareqAlKushari/Java-Food-Delivery-Application.git
-   cd Java-Food-Delivery-Application
    ```
+2. **Open the project in Android Studio:**
+   - File > Open > Select the project folder.
+3. **Build the project:**  
+   - Allow Gradle to sync and download dependencies.
+4. **Run the app:**  
+   - Connect your device or start an emulator.
+   - Click the "Run" button in Android Studio.
 
-2. **Build the project:**
-   - If using Maven:
-     ```bash
-     mvn clean install
-     ```
-   - If using Gradle:
-     ```bash
-     gradle build
-     ```
-   - Or compile using your IDE (IntelliJ IDEA, Eclipse, etc.)
+### Configuration
 
-3. **Run the application:**
-   - Via command line:
-     ```bash
-     java -jar target/Java-Food-Delivery-Application.jar
-     ```
-   - Or run from your IDE.
+- If the project uses an API backend or requires API keys, update the relevant configuration files (e.g., `res/values/strings.xml` or a `config` Java class).
+- Adjust permissions in `AndroidManifest.xml` according to your needs.
 
-## Usage
+## Folder Structure
 
-- Register a new account or log in
-- Browse available restaurants and their menus
-- Add desired items to your cart
-- Place and track your order
+- `app/src/main/java/` – Java source code (Activities, Adapters, Models)
+- `app/src/main/res/layout/` – XML layout files
+- `app/src/main/res/values/` – Strings, styles, colors
+- `app/src/main/AndroidManifest.xml` – App manifest
 
 ## Contributing
 
 Contributions are welcome!  
-Feel free to fork the repository, open issues for bugs/enhancements, or submit pull requests.
+Feel free to fork the repo, create issues, or submit pull requests for new features, bug fixes, or improvements.
 
 ## License
 
@@ -72,8 +61,8 @@ Feel free to fork the repository, open issues for bugs/enhancements, or submit p
 
 ## Contact
 
-For questions or collaboration, visit the [repository](https://github.com/TareqAlKushari/Java-Food-Delivery-Application) or contact [@TareqAlKushari](https://github.com/TareqAlKushari).
+For more information, visit the [repository](https://github.com/TareqAlKushari/Java-Food-Delivery-Application) or contact [@TareqAlKushari](https://github.com/TareqAlKushari).
 
 ---
 
-*Delivering food with Java!*
+*Delivering food, one tap at a time!*
