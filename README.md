@@ -14,7 +14,17 @@ This repository contains a **Food Delivery Application** built with Java and XML
 
 ## Screenshots
 
-*(Add screenshots of your app UI here to showcase key features!)*
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_1.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_2.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_3.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_4.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_5.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/images/Screenshot_6.png)
 
 ## Getting Started
 
