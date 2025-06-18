@@ -18,7 +18,7 @@
 <p align="center">
     <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/LICENSE"><img src="https://img.shields.io/github/license/TareqAlKushari/Java-Food-Delivery-Application" alt="LICENSE"></a>
     <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/releases/"><img src="https://img.shields.io/github/release/TareqAlKushari/Java-Food-Delivery-Application" alt="GitHub release"></a>
-    <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/stargazers"><img src="https://img.shields.io/github/stars/TareqAlKushari/Java-Food-Delivery-Application" alt="GitHub Stars"></a>
+    <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/stargazers"><img src="https://img.shields.io/github/stars/TareqAlKushari/Java-Food-Delivery-Application?style=for-the-badge" alt="GitHub Stars"></a>
     <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/network/members"><img src="https://img.shields.io/github/forks/TareqAlKushari/Java-Food-Delivery-Application" alt="GitHub Forks"></a>
     <a href="https://github.com/TareqAlKushari/Java-Food-Delivery-Application/issues"><img src="https://img.shields.io/github/issues/TareqAlKushari/Java-Food-Delivery-Application" alt="GitHub Issues"></a>
     <img src="https://img.shields.io/github/languages/top/TareqAlKushari/Java-Food-Delivery-Application" alt="Top Language">
