@@ -26,6 +26,6 @@
 </p>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/TareqAlKushari/Java-Food-Delivery-Application/"><img src="docs/banner.png" alt="Java Food Delivery App" width="100%" height="auto"/></a>
+    <a href="docs/assets/Screenshot_1.png"><img src="docs/assets/Screenshot_1.png" alt="Java Food Delivery App" width="100%" height="auto"/></a>
 </p>
 
