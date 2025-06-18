@@ -24,3 +24,66 @@
 
 ## Introduction 🚀
 
+This repository contains a **Food Delivery Application** built with Java and XML using Android Studio. The project is designed to showcase the core features of a modern mobile food delivery platform, providing a seamless user experience for browsing menus, placing orders, and tracking deliveries.
+
+A native Android food delivery app featuring:
+
+* **Menu Catalog**: Browse restaurants and menu items presented with images, descriptions, and prices.
+* **Cart & Ordering**: Add items to cart, view details, and place orders.
+* **Order Tracking**: Monitor live status updates (e.g., “Preparing”, “On the way”, “Delivered”).
+* **Future Plans**: Add cart history, user onboarding, payment gateways, varied food categories (veg/non‑veg/desserts), and online payments.
+
+## Tech Stack 🛠️
+
+* **Language**: Java
+* **UI**: Android XML layouts
+* **IDE**: Android Studio
+
+## Topics Covered ✔️
+
+![Android](https://img.shields.io/badge/Android-Java-green?style=flat-square)
+![UI](https://img.shields.io/badge/UI‑XML-Android-blue?style=flat-square)
+![Order Tracking](https://img.shields.io/badge/Order%20Tracking‑Live-yellowgreen?style=flat-square)
+
+## Screenshots
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_1.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_2.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_3.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_4.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_5.png)
+
+![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_6.png)
+
+## How to Run Locally ⚙️
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/TareqAlKushari/Java-Food-Delivery-Application.git
+   ```
+2. Open in Android Studio.
+3. Sync Gradle and build the app.
+4. Run on an emulator or physical device.
+
+## Author 🙋‍♂️
+
+**Tareq Al Kushari**
+📧 [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)
+
+## Contributing 🤝
+
+Contributions, bug reports, and feature suggestions are welcome!
+Please open an issue or submit a pull request.
+
+## License 📄
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+> If you enjoy this project, please leave a star and share it! ⭐
+
+---
