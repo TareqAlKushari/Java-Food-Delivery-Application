@@ -72,8 +72,8 @@ A native Android food delivery app featuring:
 
 ## Author 🙋‍♂️
 
-**Tareq Al Kushari**
-📧 [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com)
+**Tareq Al-Kushari**
+[GitHub](https://github.com/TareqAlKushari) • [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com) • [LinkedIn](https://www.linkedin.com/) • [Portfolio Website](#)
 
 ## Contributing 🤝
 
