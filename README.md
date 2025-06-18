@@ -1,10 +1,3 @@
-<!-- Banner -->
-<p align="center">
-<!--   <a href="docs/banner.png" target="_blank">
-    <img src="docs/banner.png" alt="Java Food Delivery App" width="100%" height="300px"/>
-  </a> -->
-</p>
-
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/TareqAlKushari/Java-Food-Delivery-Application/" target="_blank" align="center">
     Java Food Delivery Application 🍔
@@ -28,4 +21,6 @@
 <p align="center">
     <a href="docs/assets/Screenshot_1.png"><img src="docs/assets/Screenshot_1.png" alt="Java Food Delivery App" width="100%" height="auto"/></a>
 </p>
+
+## Introduction 🚀
 
