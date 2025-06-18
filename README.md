@@ -47,17 +47,17 @@ A native Android food delivery app featuring:
 
 ## Screenshots
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_1.png)
+![Screenshot](docs/assets/Screenshot_1.png)
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_2.png)
+![Screenshot](docs/assets/Screenshot_2.png)
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_3.png)
+![Screenshot](docs/assets/Screenshot_3.png)
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_4.png)
+![Screenshot](docs/assets/Screenshot_4.png)
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_5.png)
+![Screenshot](docs/assets/Screenshot_5.png)
 
-![Screenshot](https://github.com/TareqAlKushari/Java-Food-Delivery-Application/blob/master/docs/assets/Screenshot_6.png)
+![Screenshot](docs/assets/Screenshot_6.png)
 
 ## How to Run Locally ⚙️
 
