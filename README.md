@@ -70,20 +70,19 @@ A native Android food delivery app featuring:
 3. Sync Gradle and build the app.
 4. Run on an emulator or physical device.
 
-## Author 🙋‍♂️
-
-**Tareq Al-Kushari**
-[GitHub](https://github.com/TareqAlKushari) • [tareq.al.kushari@gmail.com](mailto:tareq.al.kushari@gmail.com) • [LinkedIn](https://www.linkedin.com/) • [Portfolio Website](#)
-
 ## Contributing 🤝
 
 Contributions, bug reports, and feature suggestions are welcome!
 Please open an issue or submit a pull request.
 
-## License 📄
+## Author 🙋‍♂️
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
 
-> If you enjoy this project, please leave a star and share it! ⭐
+## License 📜
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
